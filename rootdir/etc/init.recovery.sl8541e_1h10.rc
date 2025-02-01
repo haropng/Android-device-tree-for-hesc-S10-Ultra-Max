@@ -1,5 +1,5 @@
-#import /init.recovery.usb.rc
-import /init.sl8541e_1h10.usb
+import /init.recovery.usb.rc
+#import /init.sl8541e_1h10.usb
 import /init.recovery.cali.rc
 #add for board init.rc for recovery mode
 on post-fs
