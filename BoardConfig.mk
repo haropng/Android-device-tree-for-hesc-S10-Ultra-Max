@@ -82,3 +82,6 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
 include vendor/s10/sl8541e_1h10/BoardConfigVendor.mk
+
+# Enable VNDK
+BOARD_VNDK_VERSION=current
