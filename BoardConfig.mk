@@ -85,3 +85,4 @@ include vendor/s10/sl8541e_1h10/BoardConfigVendor.mk
 
 # Enable VNDK
 BOARD_VNDK_VERSION=28
+BOARD_BUILD_SYSTEM_ROOT_IMAGE=true
